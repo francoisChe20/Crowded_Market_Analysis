@@ -1,4 +1,4 @@
-# Crowded_Market_Analysis
+# Crowded_Market_Analysis : last update : 2024-11-03
 
 This project aims to report on a weekly basis the positioning of market participants on the US most liquid futures contracts. 
 The Python code I developped scrappes the data disclosed by the CFTC on a weekly basis.
